@@ -23,9 +23,6 @@
 [![](https://visitcount.itsvg.in/api?id=saiabhiramyelloju&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### My Contribution Snake
+![Snake animation](https://githubusercontent.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Contribution Snake Animation" src="https://githubusercontent.com">
-</picture>
