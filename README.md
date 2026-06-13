@@ -25,4 +25,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### My Contribution Snake
-![Snake animation](../output/github-contribution-grid-snake.svg)
+![Snake animation](../output/github-contribution-grid-snake-dark.svg)
