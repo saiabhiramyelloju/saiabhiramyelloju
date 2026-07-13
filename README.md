@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on HTML & CSS<br>🌱 I’m currently learning PYTHON & C language<br>💬 NEVER GIVE UP!!
+🔭 I’m currently working on HTML, CSS & JS<br>🌱 I’m currently learning PYTHON, C & JAVA language<br>💬 NEVER GIVE UP!!
 
 ### My Contribution Snake
 ![Snake animation](../output/github-contribution-grid-snake-dark.svg)
