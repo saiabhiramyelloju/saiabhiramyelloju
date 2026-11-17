@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on HTML, CSS & JS<br>🌱 I’m currently learning PYTHON, C & JAVA language<br>💬 NEVER GIVE UP!!
+🔭 Passtionate in making project for fun and celebrate with small success<br>💬 NEVER GIVE UP!!
 
 ---
 
